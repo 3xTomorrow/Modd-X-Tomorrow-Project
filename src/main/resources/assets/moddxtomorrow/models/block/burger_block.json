@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "down": "moddxtomorrow:block/burger_down",
+    "up": "moddxtomorrow:block/burger_up",
+    "north": "moddxtomorrow:block/burger_side",
+    "south": "moddxtomorrow:block/burger_side",
+    "east": "moddxtomorrow:block/burger_side",
+    "west": "moddxtomorrow:block/burger_side"
+  }
+}
