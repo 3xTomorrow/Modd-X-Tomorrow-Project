@@ -18,9 +18,7 @@ import org.slf4j.Logger;
 @Mod(ModdxTomorrow.MODID)
 public class ModdxTomorrow
 {
-    // Define mod id in a common place for everything to reference
     public static final String MODID = "moddxtomorrow";
-    // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public ModdxTomorrow(FMLJavaModLoadingContext context)
