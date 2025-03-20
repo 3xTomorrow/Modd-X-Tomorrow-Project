@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "moddxtomorrow:opal"
+    }
+  },
+  "result": {
+    "item": "moddxtomorrow:opal_block"
+  }
+}

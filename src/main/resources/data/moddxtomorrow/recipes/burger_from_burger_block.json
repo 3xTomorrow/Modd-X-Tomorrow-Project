@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "moddxtomorrow:burger_block"
+    }
+  ],
+  "result": {
+    "item": "moddxtomorrow:burger",
+    "count": 4
+  }
+}

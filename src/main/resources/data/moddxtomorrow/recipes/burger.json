@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bread"
+    },
+    "p": {
+      "item": "minecraft:cooked_beef"
+    }
+  },
+  "pattern": [
+    "B",
+    "p",
+    "B"
+  ],
+  "result": {
+    "item": "moddxtomorrow:burger"
+  }
+}

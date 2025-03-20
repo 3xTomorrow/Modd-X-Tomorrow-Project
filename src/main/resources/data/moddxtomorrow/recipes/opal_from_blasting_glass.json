@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 175,
+  "experience": 1,
+  "group": "opal",
+  "ingredient": {
+    "item": "minecraft:glass"
+  },
+  "result": "moddxtomorrow:opal"
+}
